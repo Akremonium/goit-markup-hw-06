@@ -438,6 +438,9 @@ header {
   background-color: var(--accent-text-color);
   margin-left: auto;
   margin-right: auto;
+}
+
+.btn-submit:hover {
   cursor: pointer;
 }
 
@@ -778,6 +781,9 @@ header {
   padding: 10px 28px;
   border-color: var(--accent-text-color);
   border-radius: 4px;
+}
+
+.subscription-button:hover {
   cursor: pointer;
 }
 
