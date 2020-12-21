@@ -438,6 +438,7 @@ header {
   background-color: var(--accent-text-color);
   margin-left: auto;
   margin-right: auto;
+  cursor: pointer;
 }
 
 .submit-text {
@@ -748,9 +749,6 @@ header {
 
 .subscription {
   display: flex;
-}
-
-.subscription-field {
 }
 
 .subscription-input {
